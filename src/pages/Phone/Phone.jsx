@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { useLoaderData, useParams } from "react-router-dom";
 import PhoneCard from "./PhoneCard";
-
+//comment from dev-1 branch
 const Phone = () => {
   const [phone, setPhone] = useState({});
 
